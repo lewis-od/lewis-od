@@ -2,7 +2,7 @@
 
 👀 I’m interested in domain-driven design, TDD, JVM languages, and all things cloud
 
-🌱 I’m currently learning Rust
+🌱 I’m currently learning Elixir
 
 📫 Reach me on:
 - [Keybase](https://keybase.io/lewis_od)

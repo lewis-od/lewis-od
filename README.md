@@ -1,8 +1,8 @@
 👋 Hi, I’m @lewis-od
 
-👀 I’m interested in domain-driven design, TDD, JVM languages, and all things cloud
+👀 I’m interested in domain-driven design, TDD, software architecture, continuous delivery, and all things cloud
 
-🌱 I’m currently learning F#
+🌱 I’m currently learning about eBPF 🐝
 
 📫 Reach me on:
 - [Keybase](https://keybase.io/lewis_od)
